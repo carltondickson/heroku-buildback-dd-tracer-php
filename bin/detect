@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
 # bin/compile <build-dir> <cache-dir>
 
-echo "Curology"
+echo "CKL - Curology"
 exit 0

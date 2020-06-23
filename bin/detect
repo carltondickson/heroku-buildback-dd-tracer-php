@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
 # bin/compile <build-dir> <cache-dir>
 
-echo "CKL - Curology"
+echo "DD Tracer"
 exit 0
